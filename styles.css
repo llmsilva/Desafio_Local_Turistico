@@ -1,0 +1,154 @@
+:root{
+  font-size: 62.5%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open-sans", sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.headline{
+  text-transform: uppercase;
+  color: #E1624F;
+  margin: 8.8rem 8rem 0.5rem 8rem;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+h1 {
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+.description-image img {
+  margin-left: 16.5rem;
+  margin-right: 8rem;
+  margin-top: 4.4rem;
+  width: 81rem;
+  height: 40rem;
+  border-radius: 1.6rem;
+}
+
+.title-page {
+  margin-left: 33rem;
+  margin-right: 8rem;
+  
+}
+
+.description {
+  width: 70rem;
+  margin-left: 20rem;
+  margin-top: 1rem;
+  text-align: center;
+  font-style: italic;
+  color: #1B1B1B;
+  
+}
+
+.content-list {
+  width: 80rem;
+  border-top: 1px solid #dbd6d6;
+  margin-top: 2rem;
+  margin-left: 8.5rem;
+  
+}
+
+.headline2 {
+  text-transform: uppercase;
+  color: #E1624F;
+  margin-left: 0.5rem;
+  margin-top: 2.5rem;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+h2 {
+  margin-top: 0.4rem;
+  margin-left: 0.4rem;
+  font-size: 1.7rem;
+}
+
+.paragraph {
+  width: 80rem;
+  text-align: justify;
+  margin-top: 1rem;
+  line-height: 1.2rem;
+}
+
+.card-travel img {
+  margin-right: 8rem;
+  margin-top: 4.4rem;
+  width: 81rem;
+  height: 40rem;
+  border-radius: 1.6rem;
+  
+}
+
+.content-card {
+  width: 80rem;
+  text-align: justify;
+  margin-top: 1rem;
+  line-height: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+ margin-top: 1rem;
+ 
+}
+
+.card-travel ol li {
+  margin-left: 2rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.bom-para {
+  font-weight: bold;
+}
+
+.card-travel ul li {
+  margin-top: 0.2rem;
+  margin-left: 1.8rem;
+  color: #0C51A7;
+  font-weight: bold;
+  
+}
+
+#purple {
+  color: #591B98;
+}
+
+#pink {
+  color: #E5245E;
+}
+
+#orange{
+  color: #E95E10;
+}
+
+.footer{
+  border-top: 1px solid #dbd6d6;
+  margin-top: 4rem;
+  margin-left: 10rem;
+}
+
+.last {
+  width: 80rem;
+  margin-top: 3rem;
+  text-align: justify;
+  margin-bottom: 3rem;
+}
+
+
+
+
